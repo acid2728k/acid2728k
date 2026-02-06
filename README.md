@@ -39,4 +39,3 @@ Current focus: **AI tools for content production + product prototypes**.
 ## Contact
 - Email: acid2728k@gmail.com
 - Telegram: @SSergy
-- Linkedin: ssergy
