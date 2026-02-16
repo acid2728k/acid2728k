@@ -17,7 +17,7 @@ My core strength is turning an idea or reference into a **repeatable production 
 
 ## Tooling
 **GenAI:** Midjourney · Sora · ChatGPT · Claude · Cursor · Krea · ComfyUI  
-**Design:** Figma (including AI workflows) · design systems · brand guidelines  
+**Design:** Figma (including AI workflows) · design systems · brand guidelines · digital guidelines
 **Prototyping:** React · fast web MVPs · component-driven UI  
 **Ops/Automation:** Notion/ClickUp/Airtable · integrations · content pipelines
 
