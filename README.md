@@ -7,11 +7,11 @@ My core strength is turning an idea or reference into a **repeatable production 
 ---
 
 ## What I do
-- **Art Direction & Visual Systems**: creative concepts, visual languages, design systems, guidelines, key visuals, UX-UI.
-- **Generative AI in Production**: prompt engineering and pipelines for stills/motion, style control, consistency, and variation at scale.
-- **Rapid Prototyping**: fast MVPs (often in **React**) to validate hypotheses, UX flows, and mechanics.
-- **Automation & Knowledge Systems**: building processes around content and production (Notion/ClickUp/Airtable/integrations) so speed doesn’t kill quality.
-- **Creative R&D**: exploring visual patterns and experimental digital forms.
+- **Art Direction & Visual Systems**: creative concepts, visual languages, design systems, guidelines, key visuals, UX-UI
+- **Generative AI in Production**: prompt engineering and pipelines for stills/motion, style control, consistency, and variation at scale
+- **Rapid Prototyping**: fast MVPs (often in **React**) to validate hypotheses, UX flows, and mechanics
+- **Automation & Knowledge Systems**: building processes around content and production (Notion/ClickUp/Airtable/integrations) so speed doesn’t kill quality
+- **Creative R&D**: exploring visual patterns and experimental digital forms
 
 ---
 
