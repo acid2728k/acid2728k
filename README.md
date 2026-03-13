@@ -1,4 +1,4 @@
-## 👋 I’m Sergey - Digital Art Director · AI-Driven Design & Prototyping
+## 👋 I’m Sergey - Digital Art Director · AI-Driven Design & Prototyping · Digital Design
 
 I’m a digital art director and product designer building visual systems and tools at the intersection of **digital design, generative AI, and rapid prototyping**. 
 
